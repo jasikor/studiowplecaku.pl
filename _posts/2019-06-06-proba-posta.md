@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /about1/
 title:  "Próbny pst"
 ---
 # To jest probny post
