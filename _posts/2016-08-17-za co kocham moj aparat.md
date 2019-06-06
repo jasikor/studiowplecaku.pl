@@ -74,88 +74,82 @@ Teraz Twoja kolej. Za co Ty kochasz swój aparat? Proszę napisz mi w komentarzu
 > May 31, 2017 at 1:22 pm
 > Co do psucia się sprzętu krótko po upływie gwarancji polecam poczytać sobie o postarzaniu produktów i wszystko będzie jasne. Oczywiście, że producenci projektują sprzęt tak, żeby przepracował tylko określoną ilość czasu.
 
-Like
+> Fotoklaps says:
+> June 9, 2017 at 11:02 am
+> Jeśli Twój aparat posiada takie cechy to nie dziwię się, że jesteś w nim po prostu zakochana 🙂 Osobiście w szczególności zgadzam się z punktem na temat ekranu – taki sposób ustawiania ostrości jest najwygodniejszy i chyba najszybszy, a wszelkiego rodzaju joysticki bardzo szybko się psują i niestety nie są dość intuicyjne.
 
-REPLY
-Fotoklaps says:
-June 9, 2017 at 11:02 am	Edit
-Jeśli Twój aparat posiada takie cechy to nie dziwię się, że jesteś w nim po prostu zakochana 🙂 Osobiście w szczególności zgadzam się z punktem na temat ekranu – taki sposób ustawiania ostrości jest najwygodniejszy i chyba najszybszy, a wszelkiego rodzaju joysticki bardzo szybko się psują i niestety nie są dość intuicyjne.
+> galeria sztuki internetowa says:
+> June 19, 2017 at 9:10 pm	
+> Faktycznie, większość recenzji aparatów składa się z wyszukiwania negatywnych ich cech. Ale to jest również wartość dodana tych testów. Można się przygotować na pewne niespodzianki sprzętu.
 
-Like
 
-REPLY
-galeria sztuki internetowa says:
-June 19, 2017 at 9:10 pm	Edit
-Faktycznie, większość recenzji aparatów składa się z wyszukiwania negatywnych ich cech. Ale to jest również wartość dodana tych testów. Można się przygotować na pewne niespodzianki sprzętu.
 
-Like
 
-REPLY
-Marek says:
-July 11, 2017 at 9:25 am	Edit
-No sprzęt dobry, ja właśnie teraz zastanawiam się nad zakupem jakiegoś ciekawego modelu aparatu , aktualnie mam nikon d5300 i jakoś specjalnie nie jestem z niego zadowolony.
+> Marek says:
+> July 11, 2017 at 9:25 am	
+> No sprzęt dobry, ja właśnie teraz zastanawiam się nad zakupem jakiegoś ciekawego modelu aparatu , aktualnie mam nikon d5300 i jakoś specjalnie nie jestem z niego zadowolony.
 
-Like
 
-REPLY
-Marcin says:
-July 25, 2017 at 2:57 pm	Edit
-Również to zauważyłem że wszędzie więcej poświęcają wadom i niedociągnięciom niż zaletom aparatów. Jakby testerzy byli najlepszymi profesjonalistami pod słońcem. To z jednej strony śmieszne, bo przecież nie ma nic idealnego 😉 Mój canon eos 1300d też idealny nie jest ale lubię go za szybki focus i bardzo dobre osiągi pod względem szumu na wyższych czułościach.
-Przyjemny artykuł, pozdrawiam serdecznie 🙂
 
-Like
 
-REPLY
-Gaga Studio says:
-September 14, 2017 at 3:11 pm	Edit
-Po co komu partner życiowy, jeżeli istnieje taki z obiektywem? ;>
+> Marcin says:
+> July 25, 2017 at 2:57 pm	
+> Również to zauważyłem że wszędzie więcej poświęcają wadom i niedociągnięciom niż zaletom aparatów. Jakby testerzy byli najlepszymi profesjonalistami pod słońcem. To z jednej strony śmieszne, bo przecież nie ma nic idealnego 😉 Mój canon eos 1300d też idealny nie jest ale lubię go za szybki focus i bardzo dobre osiągi pod względem szumu na wyższych czułościach.
+> Przyjemny artykuł, pozdrawiam serdecznie 🙂
 
-Like
 
-REPLY
-Marcin says:
-September 29, 2017 at 10:03 am	Edit
-Potwierdzam… Wszędzie słyszy się o wadach a zapomina się o zaletach – a to w moim przekonaniu jest najważniejsze 🙂 Mój aparat skupia w sobie tylko i wyłącznie same zalety (chyba, że tylko ja je dostrzegam :D).
-Pozdrawiam
 
-Like
 
-REPLY
-szymon says:
-May 21, 2018 at 12:48 pm	Edit
-jaki aparat profesjonalny polecasz żeby zacząć przygodę z fotografią?
+> Gaga Studio says:
+> September 14, 2017 at 3:11 pm	
+> Po co komu partner życiowy, jeżeli istnieje taki z obiektywem? ;>
 
-Like
 
-REPLY
-5naswoim.pl says:
-June 13, 2018 at 9:21 pm	Edit
-A jaki aparat poleciłbyś do robienia zdjęć na budowlanego bloga? Czy jakiś jeden standardowy obiektyw wystarczy, czy trzeba inwestować w różne?
 
-Like
 
-REPLY
-Smart Studio says:
-July 25, 2018 at 9:02 am	Edit
-Złej baletnicy przeszkadza i rąbek u spódnicy 😉 A prawda jest taka, że nawet słabszym aparatem możemy dokonać cudów, jeśli mamy oko do zdjęć 🙂 Poza tym aparat to nie tylko body, dochodzi jeszcze cała masa akcesoriów, które pozwalają nam stworzyć wyjątkowe ujęcia 😉
+> Marcin says:
+> September 29, 2017 at 10:03 am	
+> Potwierdzam… Wszędzie słyszy się o wadach a zapomina się o zaletach – a to w moim przekonaniu jest najważniejsze 🙂 Mój aparat skupia w sobie tylko i wyłącznie same zalety (chyba, że tylko ja je dostrzegam :D).
+> Pozdrawiam
 
-Like
 
-REPLY
-Atelier says:
-August 5, 2018 at 5:45 pm	Edit
-@szymon ciężko polecić “profesjonalny” aparat dla kogoś, kto zaczyna.
 
-Like
 
-REPLY
-fotograf Lublin says:
-September 4, 2018 at 2:00 pm	Edit
-Aby zrobić dobre zdjęcie nie potrzebny jest sprzęt z wysokiej polki tylko doświadczenie, umiejętności i trochę szczęścia.
+> szymon says:
+> May 21, 2018 at 12:48 pm	
+> jaki aparat profesjonalny polecasz żeby zacząć przygodę z fotografią?
 
-Like
 
-REPLY
-studiokisiel says:
-September 12, 2018 at 7:39 pm	Edit
-“biega po nich zebra” ale się uśmiałem 🙂
+
+
+> 5naswoim.pl says:
+> June 13, 2018 at 9:21 pm	
+> A jaki aparat poleciłbyś do robienia zdjęć na budowlanego bloga? Czy jakiś jeden standardowy obiektyw wystarczy, czy trzeba inwestować w różne?
+
+
+
+
+> Smart Studio says:
+> July 25, 2018 at 9:02 am	
+> Złej baletnicy przeszkadza i rąbek u spódnicy 😉 A prawda jest taka, że nawet słabszym aparatem możemy dokonać cudów, jeśli mamy oko do zdjęć 🙂 Poza tym aparat to nie tylko body, dochodzi jeszcze cała masa akcesoriów, które pozwalają nam stworzyć wyjątkowe ujęcia 😉
+
+
+
+
+> Atelier says:
+> August 5, 2018 at 5:45 pm	
+> @szymon ciężko polecić “profesjonalny” aparat dla kogoś, kto zaczyna.
+
+
+
+
+> fotograf Lublin says:
+> September 4, 2018 at 2:00 pm	
+> Aby zrobić dobre zdjęcie nie potrzebny jest sprzęt z wysokiej polki tylko doświadczenie, umiejętności i trochę szczęścia.
+
+
+
+
+> studiokisiel says:
+> September 12, 2018 at 7:39 pm	
+> “biega po nich zebra” ale się uśmiałem 🙂
