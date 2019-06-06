@@ -1,0 +1,58 @@
+# Setup
+title:          "Bootstrap Blog"
+description:    "Official blog for the Bootstrap framework."
+url:            "https://blog.getbootstrap.com"
+future:         true
+permalink:      pretty
+
+# Pagination
+paginate:       5
+
+# Sass converter configuration
+sass:
+  style:        compressed
+
+# Local Server
+host:           localhost # same as default value '127.0.0.1' but reads better
+
+# Links
+main:           "https://getbootstrap.com"
+expo:           "https://expo.getbootstrap.com"
+themes:         "https://themes.getbootstrap.com"
+
+# Social
+authors:        "Mark Otto, Jacob Thornton, and Bootstrap contributors"
+author:
+  twitter:      "getbootstrap"
+
+twitter:
+  card:         "summary_large_image"
+  username:     "getbootstrap"
+
+logo:           "/assets/img/bootstrap-social.png"
+
+# Output
+defaults:
+  - scope:
+      path:     ""
+    values:
+      image:
+        path:   "/assets/img/bootstrap-social.png" # default image
+        width:  1200
+        height: 630
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - .sass-cache
+  - .netlify
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
