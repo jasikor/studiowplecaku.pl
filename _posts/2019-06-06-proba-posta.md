@@ -1,5 +1,4 @@
 ---
-permalink: /proba-posta/
 layout: post
 title:  "Próbny pst"
 ---
