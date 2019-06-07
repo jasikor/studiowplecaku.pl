@@ -7,7 +7,9 @@ title: Wyzwalanie lampy lampą z aparatu
 Dostałem takiego maila:
 
 > Witam,
+> 
 > Od jakiegoś czasu zacząłem się interesować fotografią, stale staram się pogłębiać swoją wiedzę. Obejrzałem mnóstwo filmów Pana autorstwa i myślę, że jestPan odpowiednią osobą która może mi pomóc. Bardzo zainteresowała mnie technika strobist (CLS?) i ciężko mi znależc odpowiedz na moje pytnie. Posiadam Nikon d3300 i lampe błyskową Yongnuo 560 II. Chodzi mi o to, czy mozna zrobić zdjęcie portretowe modelki wyzwalajac lampe YN lampa wbudowana aparatu, w ten sposob, zeby na zdjeciu zostal zarejestrowany tylko błysk z lampy YN. Czy tak sie da? Czy trzeba wyzwalac lampe jakims wyzwalaczem i jesli tak, to czy takei wyzwalacze sa dedykowane do poszczegolnych modeli lamp? I jesli nic z tego co posiadam nie stworze, czy mogly Pan mi polecic jakis wyzwalacz z lampa w rozsadnej cenie. Na allegro jest tego tyle, ze jestem zielony.
+
 > Pozdrawiam
 
 Odpowiedziałem tak:
