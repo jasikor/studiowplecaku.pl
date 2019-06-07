@@ -4,6 +4,7 @@ author: js
 permalink: /wyzwalanie-lampy-z-aparatu/
 title: Wyzwalanie lampy lampą z aparatu
 ---
+![Pocket Wizard](/assets/img/08-09-26-102.jpg)
 Dostałem takiego maila:
 
 > Witam,
