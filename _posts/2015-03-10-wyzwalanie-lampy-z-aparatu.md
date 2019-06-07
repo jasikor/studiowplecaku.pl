@@ -33,3 +33,43 @@ Niestety podobnie jak Ty, jestem z w temacie wyzwalaczy zielony. Kiedyś dawno, 
 Jedyne, co mogę Ci poradzić, to studiowanie internetu i szukanie informacji o wyzwalaczach na forach o fotografii.
 
 Koniecznie daj mi znać, czy sposób z folią zadziałał – jestem bardzo ciekawy!
+
+-----------------
+
+> ernest4 says:
+> March 16, 2015 at 7:35 am
+> jest jeszcze opcja filtru , zakładanego na stopkę
+> koszt około 50 zł -korzystam i całkiem spoko działa(chociaż tyu nie ma żadnej filozofii, płytka przesłania lampę wbudowaną)
+
+> Yanni says:
+> March 21, 2015 at 4:25 am	
+> Przedmowca zapewne mial na mysli filtr podczerwieni (infrared), gdyz w takim pasmie swiatla dziala system komunikacji lamp blyskowych w Canon’nie. Ja uzwywam filtra podczerwieni na obiektyw, dziala niezawoednie tylko ze wyglada dziwacznie 🙂
+
+> Piotrek FK says:
+> June 13, 2015 at 10:45 pm	
+> Ja bym proponowal uzycie zaslony na wbudowany flash Nikon SG-3IR. Bedzie ona bardzo przydatna gdy kiedys zakupisz blyski Nikona do pracy CLS.
+> 
+> Aluminiowa folia moze byc dobrym rozwiazaniem aby niezmarnowac swiatla ktore wychodzi z blysku D3300 jak pan Jarek sugeruje. Ono moze pomoc oswietlic przedmiot lub osobe ktora fotografujesz.
+> 
+> Pozdrowienia dla pana Jarka i Studia W Plecaku 🙂
+
+> Bistro says:
+> September 27, 2015 at 7:41 am	
+> Da się 🙂 ale tylko w trybie hss – powyżej 1/250s …
+
+> Wojciech Chmielnicki says:
+> December 2, 2015 at 4:23 pm	
+> Tak się zastanawiam – warto tak kombinować?…. Wyzwalacze yongnuo są tanie i niezawodne, za około 100zł dostaniemy dwie sztuki, używane jeszcze taniej – i problem z głowy… To naprawdę niewielkie pieniądze jak na nasze hobby 🙂
+
+> Wojtek says:
+> March 10, 2016 at 6:07 pm	
+> Używam wyzwalaczy yongnuo i jestem bardzo zadowolony, ale chyba tak tanio nowych się nie da kupić 🙂
+
+> Barbara says:
+> April 19, 2016 at 12:32 pm	
+> A ja z tych wyzwalaczy nie jestem zadowolona..Widać, nie każdemu muszą one odpowiadać 🙂
+
+> lobzowska says:
+> October 28, 2016 at 10:29 am	
+> Bardzo ciekawy wpis i zdecydowanie zgodzę się z Piotrkiem.
+> Pozdrawiam
