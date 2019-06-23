@@ -17,15 +17,27 @@ Zalety trybu ręcznego to:
 2. Tryb ręczny pozwala na bardzo precyzyjne ustawienie naświetlenia nieczułe na rodzaj fotografowanej sceny. Klasyczne przykłady scen ogłupiających automatykę aparatu to Murzyn w białej koszuli (lub panna młoda w bieli), narciarz na stoku, plaża, ciemny las i tak dalej. Generalne aparat głupieje gdy widzi albo bardzo jasną scenę z małą ilością ciemnego, albo ciemną z małą ilością jasnego.
 3. Tryb ręczny daje pełną kontrolę nad naświetleniem, co można wykorzystać kreatywnie. Więcej o kreatywnym użyciu trybu manualnego w następnych odcinkach.
 4. Pewnie jest jeszcze więcej zalet trybu ręcznego, ale trzy powyższe w zupełności mnie przekonują.
-Klasyczny sposób ustawienia prawidłowej ekspozycji to użycie światłomierza do pomiaru światła odbitego od kartonika znanego jako „szara karta Kodaka”. Ja jednak nie mając ani szarej karty Kodaka ani światłomierza radzę sobie bezbłędnie. Oto mój przepis (nie ja go wymyśliłem oczywiście, ale bliski jest mojemu sercu, więc czuję się tak, jakby był mój):
+
+Klasyczny sposób ustawienia prawidłowej ekspozycji to użycie światłomierza do pomiaru światła odbitego od kartonika znanego jako „szara karta Kodaka”. Ja jednak nie mając ani szarej karty Kodaka ani światłomierza radzę sobie bezbłędnie. 
+
+Oto mój przepis (nie ja go wymyśliłem oczywiście, ale bliski jest mojemu sercu, więc czuję się tak, jakby był mój):
 
 1. Pomiar natężenia światła wykonuję przez światłomierz wbudowany w aparat i ustawiony na tryb spot (punktowy pomiar światła).
 2. Ustawiam punkt pomiaru natężenia światła w wizjerze na najjaśniejszy punkt sceny. Fotografując na przykład narciarza na śniegu celuję na śnieg. Fotografując osobę w białej bluzce celuję na bluzkę. Ważne jest, żeby białe wypełniało całą przestrzeń obrysowaną kółkiem w wizjerze. Jeśli mam założony zoom, to zoomuję, a jeśli akurat nie mam, to podchodzę parę kroków do przodu. Patrz na dwa zdjęcia poniżej.
 3. Teraz mogę manipulować albo czasem migawki albo przysłoną. Załóżmy na chwilę, że wybrałem czas. Kręcę gałką czasu tak długo, aż wskazówka światłomierza pokazuje 2 (to ta podziałka z lewej strony napisu AI SERVO). Taka sama podziałka widoczna jest w wizjerze.
 ![](/assets/img/08-12-08-322.jpg)
 4. Strzelam fotki – wychodzą w 100% perfekcyjnie naświetlone.
-Popatrz na dwa zdjęcia poniżej. Na pierwszym szare kółko pokazuje, jak celowałem przy pomiarze światła. Gdy już ustawiłem ekspozycję (czytaj: kreskę na liczbę 2) mogłem śmiało przekadrować i zrobić kolejne zdjęcie, które tak jak można było oczekiwać nie jest dziełem sztuki, ale za to jest prawidłowo naświetlone.
 
+Popatrz na dwa zdjęcia poniżej. Na pierwszym szare kółko pokazuje, jak celowałem przy pomiarze światła. Gdy już ustawiłem ekspozycję (czytaj: kreskę na liczbę 2) mogłem śmiało przekadrować i zrobić kolejne zdjęcie, które tak jak można było oczekiwać nie jest dziełem sztuki, ale za to jest prawidłowo naświetlone.
+![](/assets/img/08-12-08-300.jpg)
+
+![](/assets/img/08-12-08-311.jpg)
+
+Skąd wzięła się tajemnicza liczba 2? Co zrobić, gdy fotografia nie zawiera białych plam? A jeśli nie można podejść?
+
+Odpowiedzi na te pytania znajdziesz w kolejnym odcinku sagi “Pomiar światła“.
+
+To jest część pierwsza z pięcioczęściowego cyklu. Zobacz Część 2, Część 3, Część 4 i Część 5.
 ---------------
 
 > Szymek says:
